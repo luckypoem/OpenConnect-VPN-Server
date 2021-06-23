@@ -36,3 +36,4 @@ For making connection to your server, you can use `AnyConnect`, `OpenConnect` or
 - OpenConnect: [OpenConnect client for Linux](https://computingforgeeks.com/how-to-connect-to-vpn-server-with-openconnect-ssl-vpn-client-on-linux/).
 
 And one more thing, contributions are welcome.
+<p>测试可用。可用来翻墙。2021-06-23
